@@ -9,3 +9,13 @@ Currently, the repository contains **Lab 1** only.
 
 ## 📁 Folder Structure
 
+```
+├── Lab1
+│ ├── index.html
+│ ├── index1.js
+│ ├── index2.js
+│ └── index3.js
+│
+└── README.md
+```
+---
