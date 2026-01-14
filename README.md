@@ -79,6 +79,8 @@ Results are printed in the console for comparison.
   - `this` context handling
 
 ---
+## Lab2
+---
 
 ## ▶️ How to Run
 
