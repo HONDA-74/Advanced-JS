@@ -86,7 +86,8 @@ Results are printed in the console for comparison.
 ---
 ## Lab2
 ---
-
+## Lac3
+---
 ## ▶️ How to Run
 
 1. Open `Lab1/index.html` in your browser.
