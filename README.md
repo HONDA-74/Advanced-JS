@@ -20,6 +20,11 @@ Currently, the repository contains **Lab 1** only.
 │ ├── index.html
 │ ├── index1.js
 │ └── index2.js
+│
+├── Lab3
+│ ├── index.html
+│ ├── index1.js
+│ └── index2.js
 │ 
 └── README.md
 ```
