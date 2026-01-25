@@ -84,7 +84,87 @@ Results are printed in the console for comparison.
   - `this` context handling
 
 ---
-## Lab2
+## 🧪 Lab 2
+
+### 📌 Overview
+This lab focuses on applying **object-oriented programming concepts in JavaScript** using constructor functions, recursion, closures, and proper error handling.
+
+The lab includes two main tasks:
+- Creating a **Numerical Sequence manager**
+- Implementing a **Box & Book management system**
+
+---
+
+### 📄 index.html
+- A simple HTML file to run the JavaScript code.
+- You can switch between tasks by commenting or uncommenting the `<script>` tags.
+
+---
+
+### 📄 index1.js – Numerical Sequence
+Implements a numerical sequence using a constructor function.
+
+**Features:**
+- Automatically generates a sequence using:
+  - `start`
+  - `end`
+  - `step`
+- Uses **recursion** to build the sequence.
+- Uses **closures** to protect internal data.
+
+**Supported operations:**
+- `append(value)` → Adds the next valid value to the sequence.
+- `prepend(value)` → Adds the previous valid value to the sequence.
+- `pop()` → Removes the last element.
+- `shift()` → Removes the first element.
+- `display()` → Returns the full sequence.
+
+❌ Throws an error if an invalid value is added.
+
+---
+
+### 📄 index2.js – Box & Book System
+Implements a simple system for managing books inside a box using constructor functions.
+
+#### 🔹 Book
+Each book has:
+- `title`
+- `author`
+- `pages`
+- `numOfCopies`
+- `numOfChapters`
+
+#### 🔹 Box
+Each box has:
+- Dimensions (`width`, `height`, `depth`)
+- `volume()` method
+- `material`
+- `numOfBooks`
+- `contents` array
+
+**Supported operations:**
+- `addBook(book)`
+  - Adds a book to the box or increases its number of copies if it already exists.
+- `removeBook(book)`
+  - Decreases the number of copies or removes the book completely.
+- `findBook(title)`
+  - Returns the book object by title.
+- `display()`
+  - Displays all books and their number of copies in the console.
+
+❌ Throws errors when:
+- Adding an object that is not a book
+- Removing or searching for a book that does not exist
+
+---
+
+### ▶️ How to Run Lab 2
+
+1. Open `Lab2/index.html` in your browser.
+2. Open **Developer Tools → Console**.
+3. Uncomment the JavaScript file you want to test.
+4. Refresh the page to see the output.
+
 ---
 ## Lac3
 ---
