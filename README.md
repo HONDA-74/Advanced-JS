@@ -157,15 +157,6 @@ Each box has:
 - Removing or searching for a book that does not exist
 
 ---
-
-### ▶️ How to Run Lab 2
-
-1. Open `Lab2/index.html` in your browser.
-2. Open **Developer Tools → Console**.
-3. Uncomment the JavaScript file you want to test.
-4. Refresh the page to see the output.
-
----
 ## Lac3
 ---
 ## ▶️ How to Run
