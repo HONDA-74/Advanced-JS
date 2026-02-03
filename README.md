@@ -3,7 +3,7 @@
 This repository contains my labs for the **Advanced JavaScript** course.  
 Each lab is placed in a separate folder based on the lab day.
 
-Currently, the repository contains **Lab 1** only.
+Currently, the repository contains **Lab 1** **Lab 2** **Lab 3** **Lab 4** only.
 
 ---
 
